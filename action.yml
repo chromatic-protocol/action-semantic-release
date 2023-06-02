@@ -4,6 +4,7 @@ description: 'check changelog and release action'
 inputs:
   github-token:
     description: pass secrets.github_token
+    required: true
 
 outputs:
   tag:
