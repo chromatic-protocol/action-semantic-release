@@ -1,1 +1,1 @@
-# action-sematic-release
+# action-semantic-release
